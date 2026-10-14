@@ -151,62 +151,62 @@ export const AMITY_SUBJECTS = [
 
 export const PROOFS: { src: string; caption: string; alt: string }[] = [
   {
-    src: "/WhatsApp Image 2026-10-11 at 20.06.03.jpeg",
+    src: "/proofs/WhatsApp Image 2026-10-11 at 20.06.03.jpeg",
     caption: "Gokul Ferose (Amity) — 28.7 / 30 Scored in AMIGO Portal",
     alt: "WhatsApp screenshot showing Amity student scoring 28.7 out of 30 marks",
   },
   {
-    src: "/WhatsApp Image 2026-10-11 at 20.06.04.jpeg",
+    src: "/proofs/WhatsApp Image 2026-10-11 at 20.06.04.jpeg",
     caption: "Ali Bin Tariq (Amity BCA) — Python Programming & AMIGO Delivery",
     alt: "WhatsApp screenshot showing BCA programming project delivery",
   },
   {
-    src: "/WhatsApp Image 2026-10-11 at 20.06.01.jpeg",
+    src: "/proofs/WhatsApp Image 2026-10-11 at 20.06.01.jpeg",
     caption: "Vikas Kumar (Amity MBA) — Full Project & Viva Prep Completed",
     alt: "WhatsApp screenshot showing MBA project completion and audio confirmation",
   },
   {
-    src: "/WhatsApp Image 2026-10-11 at 20.06.02.jpeg",
+    src: "/proofs/WhatsApp Image 2026-10-11 at 20.06.02.jpeg",
     caption: "Sonam Sharma (Amity) — Stock Market Project & Viva Accepted",
     alt: "WhatsApp screenshot confirming financial stock market report completion",
   },
   {
-    src: "/WhatsApp Image 2026-10-11 at 20.06.03 (1).jpeg",
+    src: "/proofs/WhatsApp Image 2026-10-11 at 20.06.03 (1).jpeg",
     caption: "Manav Amity — Urgent Project Started Before Payment & Delivered",
     alt: "WhatsApp screenshot showing urgent project started immediately",
   },
   {
-    src: "/WhatsApp Image 2026-10-11 at 20.06.03 (2).jpeg",
+    src: "/proofs/WhatsApp Image 2026-10-11 at 20.06.03 (2).jpeg",
     caption: "Tushar Dahima (Amity) — Full NTCC Project & Viva Prep Call",
     alt: "WhatsApp screenshot showing viva coaching call and discussion",
   },
   {
-    src: "/WhatsApp Image 2026-10-11 at 20.06.01 (2).jpeg",
+    src: "/proofs/WhatsApp Image 2026-10-11 at 20.06.01 (2).jpeg",
     caption: "Sourav Santra (Amity BBA) — All 4 NTCC Portal Tiles Completed",
     alt: "WhatsApp screenshot showing NTCC report submitted and approved",
   },
   {
-    src: "/WhatsApp Image 2026-10-11 at 20.06.00.jpeg",
+    src: "/proofs/WhatsApp Image 2026-10-11 at 20.06.00.jpeg",
     caption: "R. Amity (B.Tech) — Full Working Code & Project Submission",
     alt: "WhatsApp screenshot confirming B.Tech code handover and review",
   },
   {
-    src: "/WhatsApp Image 2026-10-11 at 20.06.02 (1).jpeg",
+    src: "/proofs/WhatsApp Image 2026-10-11 at 20.06.02 (1).jpeg",
     caption: "Himanshu Goyal (Amity) — Project Report & Turnitin Plagiarism Check",
     alt: "WhatsApp screenshot discussing project evaluation and Turnitin report",
   },
   {
-    src: "/WhatsApp Image 2026-10-11 at 20.06.02 (2).jpeg",
+    src: "/proofs/WhatsApp Image 2026-10-11 at 20.06.02 (2).jpeg",
     caption: "Rishi Amity (MBA) — Direct Portal Login Submission",
     alt: "WhatsApp screenshot showing direct Amity portal submission",
   },
   {
-    src: "/WhatsApp Image 2026-10-11 at 20.06.01 (1).jpeg",
+    src: "/proofs/WhatsApp Image 2026-10-11 at 20.06.01 (1).jpeg",
     caption: "Naman Garg (Amity) — Major Finance & Investment Platform Report",
     alt: "WhatsApp screenshot showing major finance research project report",
   },
   {
-    src: "/WhatsApp Image 2026-10-11 at 20.07.31.jpeg",
+    src: "/proofs/WhatsApp Image 2026-10-11 at 20.07.31.jpeg",
     caption: "Sahil Tomar (Amity) — Urgent Submission Delivery & Voice Note",
     alt: "WhatsApp screenshot confirming urgent deadline delivery",
   },

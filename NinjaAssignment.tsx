@@ -58,7 +58,7 @@ const BRAND_CONFIG = {
 const CHAT_PROOFS = [
   {
     id: "amity-gokul",
-    imageUrl: "/WhatsApp Image 2026-10-11 at 20.06.03.jpeg",
+    imageUrl: "/proofs/WhatsApp Image 2026-10-11 at 20.06.03.jpeg",
     theme: "dark",
     clockTime: "8:02",
     contactName: "Gokul Ferose Amity",
@@ -121,7 +121,7 @@ const CHAT_PROOFS = [
   },
   {
     id: "amity-ali",
-    imageUrl: "/WhatsApp Image 2026-10-11 at 20.06.04.jpeg",
+    imageUrl: "/proofs/WhatsApp Image 2026-10-11 at 20.06.04.jpeg",
     theme: "dark",
     clockTime: "8:05",
     contactName: "Ali AI Agency AMITY",
@@ -164,7 +164,7 @@ const CHAT_PROOFS = [
   },
   {
     id: "amity-vikas",
-    imageUrl: "/WhatsApp Image 2026-10-11 at 20.06.01.jpeg",
+    imageUrl: "/proofs/WhatsApp Image 2026-10-11 at 20.06.01.jpeg",
     theme: "light",
     clockTime: "12:40",
     contactName: "Vikas Kumar Amity",
@@ -207,7 +207,7 @@ const CHAT_PROOFS = [
   },
   {
     id: "amity-sonam",
-    imageUrl: "/WhatsApp Image 2026-10-11 at 20.06.02.jpeg",
+    imageUrl: "/proofs/WhatsApp Image 2026-10-11 at 20.06.02.jpeg",
     theme: "dark",
     clockTime: "8:00",
     contactName: "Sonam Amity",
@@ -259,7 +259,7 @@ const CHAT_PROOFS = [
   },
   {
     id: "amity-manav",
-    imageUrl: "/WhatsApp Image 2026-10-11 at 20.06.03 (1).jpeg",
+    imageUrl: "/proofs/WhatsApp Image 2026-10-11 at 20.06.03 (1).jpeg",
     theme: "dark",
     clockTime: "8:03",
     contactName: "Manav Amity",
@@ -301,7 +301,7 @@ const CHAT_PROOFS = [
   },
   {
     id: "amity-tushar",
-    imageUrl: "/WhatsApp Image 2026-10-11 at 20.06.03 (2).jpeg",
+    imageUrl: "/proofs/WhatsApp Image 2026-10-11 at 20.06.03 (2).jpeg",
     theme: "dark",
     clockTime: "8:04",
     contactName: "Tushar dahima Amity",
@@ -365,7 +365,7 @@ const CHAT_PROOFS = [
   },
   {
     id: "amity-sourav",
-    imageUrl: "/WhatsApp Image 2026-10-11 at 20.06.01 (2).jpeg",
+    imageUrl: "/proofs/WhatsApp Image 2026-10-11 at 20.06.01 (2).jpeg",
     theme: "dark",
     clockTime: "7:59",
     contactName: "Sourav Santra Amity",
@@ -409,7 +409,7 @@ const CHAT_PROOFS = [
   },
   {
     id: "amity-r",
-    imageUrl: "/WhatsApp Image 2026-10-11 at 20.06.00.jpeg",
+    imageUrl: "/proofs/WhatsApp Image 2026-10-11 at 20.06.00.jpeg",
     theme: "dark",
     clockTime: "7:56",
     contactName: "R Amity",
@@ -457,7 +457,7 @@ const CHAT_PROOFS = [
   },
   {
     id: "amity-himanshu",
-    imageUrl: "/WhatsApp Image 2026-10-11 at 20.06.02 (1).jpeg",
+    imageUrl: "/proofs/WhatsApp Image 2026-10-11 at 20.06.02 (1).jpeg",
     theme: "dark",
     clockTime: "8:01",
     contactName: "Himanshu Goyal Amity",
@@ -499,7 +499,7 @@ const CHAT_PROOFS = [
   },
   {
     id: "amity-rishi",
-    imageUrl: "/WhatsApp Image 2026-10-11 at 20.06.02 (2).jpeg",
+    imageUrl: "/proofs/WhatsApp Image 2026-10-11 at 20.06.02 (2).jpeg",
     theme: "dark",
     clockTime: "8:01",
     contactName: "rishi Amity",
@@ -542,7 +542,7 @@ const CHAT_PROOFS = [
   },
   {
     id: "amity-naman",
-    imageUrl: "/WhatsApp Image 2026-10-11 at 20.06.01 (1).jpeg",
+    imageUrl: "/proofs/WhatsApp Image 2026-10-11 at 20.06.01 (1).jpeg",
     theme: "dark",
     clockTime: "7:57",
     contactName: "Naman Garg Amity",
@@ -569,7 +569,7 @@ const CHAT_PROOFS = [
   },
   {
     id: "amity-sahil",
-    imageUrl: "/WhatsApp Image 2026-10-11 at 20.07.31.jpeg",
+    imageUrl: "/proofs/WhatsApp Image 2026-10-11 at 20.07.31.jpeg",
     theme: "dark",
     clockTime: "8:07",
     contactName: "Sahil Tomar Amity",
@@ -630,7 +630,7 @@ const WORK_PROOFS = [
   },
   {
     id: "work-4",
-    imageUrl: "/WhatsApp Image 2026-10-11 at 20.06.01 (1).jpeg",
+    imageUrl: "/proofs/WhatsApp Image 2026-10-11 at 20.06.01 (1).jpeg",
     type: "mba",
     badge: "MBA / BBA / Commerce",
     title: "AMIGO Assignments (28+/30 Score), Finance Models & Viva PPT",
